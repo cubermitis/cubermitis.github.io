@@ -6,7 +6,7 @@ Cubermitis is group of CTF goers and friends who like having fun and who thrive 
 
 Cubermitis members have been very successful in every competition to which they've participated. They are: 
 
-**hackathons**
+**Hackathons**
 - [HackQc 2019](https://hackqc.ca/hackqc-2019/) (1st place)
 
 **CTFs**
@@ -14,6 +14,6 @@ Cubermitis members have been very successful in every competition to which they'
 - [NorthSec 2020](https://nsec.io/) (members in 1st place and 20th place)
 - [17 years of Linux Meetup CTF](https://agendadulibre.qc.ca/events/2121) (1st place)
 - [NorthSec 2021](https://nsec.io/) (members in 2nd place and 15th place)
-- [CyberSCI Canadian Notional Finals](https://csc21.cybersecuritychallenge.ca/) (1st place)
+- [CyberSCI Canadian National Finals](https://csc21.cybersecuritychallenge.ca/) (1st place)
 
 
