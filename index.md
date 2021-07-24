@@ -1,6 +1,6 @@
 ## Who's Cubermitis
 
-Cubermitis is group of CTF goers and friends who like having fun and who thrive on challenges. Cubermitis is based in Montréal, Canada. 
+Cubermitis is a group of CTF goers and friends who like having fun and who thrive on challenges. Cubermitis is based in Montréal, Canada. 
 
 ### Competitions
 
