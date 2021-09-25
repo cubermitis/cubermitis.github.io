@@ -16,6 +16,7 @@ Cubermitis members have been very successful in every competition to which they'
 - [Splunk Boss of the SOC (BOTS) @ SéQCure 2021](https://seqcure.org/boss-of-the-soc/index.html) (1st place)
 - [NorthSec 2021](https://nsec.io/) (members in 2nd place and 15th place)
 - [CyberSCI Canadian National Finals](https://csc21.cybersecuritychallenge.ca/) (1st place)
+- [18 years of Linux Meetup CTF](https://agendadulibre.qc.ca/events/2161) (1st place)
 
 ### Contact
 
