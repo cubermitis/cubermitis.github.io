@@ -17,6 +17,7 @@ Cubermitis members have been very successful in every competition to which they'
 - [NorthSec 2021](https://nsec.io/) (members in 2nd place and 15th place)
 - [CyberSCI Canadian National Finals](https://csc21.cybersecuritychallenge.ca/) (1st place)
 - [18 years of Linux Meetup CTF](https://agendadulibre.qc.ca/events/2161) (1st place)
+- [HackFest 2021](https://hackfest.ca/en/ctf/) (members in 1st place)
 
 ### Contact
 
